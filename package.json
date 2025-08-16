@@ -2,11 +2,10 @@
   "name": "renren-remix",
   "version": "1.0.0",
   "type": "module",
- "engines": {
-  "node": "18.17.1",
-  "npm": "10.x"
-}
-
+  "engines": {
+    "node": "18.17.1",
+    "npm": "10.x"
+  },
   "scripts": {
     "dev": "remix dev",
     "build": "remix build",
