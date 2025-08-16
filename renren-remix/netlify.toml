@@ -1,9 +1,0 @@
-[build]
-  base = "renren-remix"   # 如果项目在子目录
-  command = "npm run build"
-  publish = "public"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
