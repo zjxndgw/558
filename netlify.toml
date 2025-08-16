@@ -6,7 +6,6 @@
   NODE_VERSION = "18.17.1"
   NPM_FLAGS = "--include=dev"
 
-
 [[redirects]]
   from = "/*"
   to = "/index.html"
