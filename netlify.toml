@@ -1,5 +1,4 @@
 [build]
-  base = ""                # 如果仓库根目录即 renren-remix，保持空
   command = "npm run build"
   publish = "public"
 
